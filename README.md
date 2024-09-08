@@ -1,2 +1,3 @@
-# axxes-traineeship-2024
-Exercises for the Axxes React traineeship 2024
+# Axxes Traineeship 2024 - React
+
+This repository contains all the exercises for the Axxes React traineeship 2024.
